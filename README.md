@@ -6,4 +6,8 @@ The maps are `ASCII char: Unicode char` pairs in numbered JSON files. `index.jso
 
 The JSON maps have been derived from the maps forked from [@deepushajia/ASCII-Unicode-Converter-for-Malayalam](https://github.com/deepushajia/ASCII-Unicode-Converter-for-Malayalam)
 
+## Conversion algorithm
+
+See `convert.py` for a reference algorithm for using the maps to convert ASCII Malayalam text to Unicode.
+
 The JSON maps in the repository are licensed under CC0.
